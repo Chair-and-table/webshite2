@@ -1,6 +1,5 @@
 
 <template >
-  BALLS BALLS BALL
   <router-view />
 </template>
 <script setup>
